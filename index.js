@@ -5,4 +5,4 @@ element.remove();
 
 let newHeader = document.createElement('h1');
 newHeader.id = 'victory';
-newHeader.innerHTML = 'Antony is the Champion';
+newHeader.innerHTML = 'Antony is the champion!';
